@@ -1,0 +1,12 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+    font-size: 18px;
+    font-weight: 400;
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+
+
+}
+.w-100{
+    height: 70vh;
+}
